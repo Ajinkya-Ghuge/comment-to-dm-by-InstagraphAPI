@@ -1,8 +1,8 @@
 📩 Insta Auto DM Bot — Comment to DM System
-A powerful automation tool built with Python to send DMs to users who comment on your Instagram reel. Perfect for creators, marketers, and brands to instantly engage with their audience — boosting loyalty, clicks, and conversions.
+A powerful automation tool built with Python to send DMs to users who comment on your Instagram Reel. Perfect for creators, marketers, and brands to instantly engage with their audience — boosting loyalty, clicks, and conversions.
 
 ⚡ What It Does
-🔎 Scans comments on your Instagram Reel 
+🔎 Scans comments on your Instagram Reel
 
 💌 Sends a personalized DM to every commenter
 
@@ -33,32 +33,3 @@ Python 3.10+
 instagrapi
 
 JSON (for data tracking)
-
-🚀 How to Run
-Clone the repo
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/insta-dm-bot.git
-cd insta-dm-bot
-Install dependencies
-
-bash
-Copy
-Edit
-pip install instagrapi
-Update your credentials and reel URL in the script
-
-python
-Copy
-Edit
-USERNAME = "your_username"
-PASSWORD = "your_password"
-REEL_URL = "your_reel_url"
-Run the bot
-
-bash
-Copy
-Edit
-python main.py# comment-to-dm-by-InstagraphAPI

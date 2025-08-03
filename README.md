@@ -2,7 +2,7 @@
 A powerful automation tool built with Python to send DMs to users who comment on your Instagram reel. Perfect for creators, marketers, and brands to instantly engage with their audience — boosting loyalty, clicks, and conversions.
 
 ⚡ What It Does
-🔎 Scans comments on your Instagram Reel
+🔎 Scans comments on your Instagram Reel 
 
 💌 Sends a personalized DM to every commenter
 
